@@ -1,0 +1,11 @@
+{
+  "id": "MonsterReplacer",
+  "name": "Monster Texture Replacer",
+  "author": "leddele",
+    "description": "怪物替换",
+  "version": "1.0.0",
+  "entry_point": "MonsterReplacer.MainFile",
+  "dll_name": "MonsterReplacer.dll",
+  "pck_name": "MonsterReplacer",
+  "dependencies": ["BaseLib"]
+}
